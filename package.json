@@ -1,0 +1,11 @@
+{
+  "name": "vivek_123",
+  "version": "2.1.0",
+  "main": "mynpmmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "description": ""
+}
